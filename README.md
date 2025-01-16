@@ -24,7 +24,7 @@ Explorar as funcionalidades do **Tailwind CSS**, aplicando conceitos como:
 
 ## 💻 Deploy
 
--**Vercel**: https://desafio-tailwind-7qqd-nerkt4z5y-myllenabitars-projects.vercel.app/ 
+-**Vercel**: https://desafio-tailwind-rouge.vercel.app/
 
 ## 🚀 Como Executar Localmente
 
