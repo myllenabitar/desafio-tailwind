@@ -1,6 +1,7 @@
 # Desafio Tailwind CSS 🚀
 
 Este repositório contém a solução para o desafio de Tailwind CSS proposto pela [Origamid](https://www.origamid.com/). O objetivo foi desenvolver uma interface web responsiva e moderna utilizando exclusivamente o framework **Tailwind CSS**, utilizando apenas grid e gap, sem uso de margin ou padding.
+<img src="https://github.com/user-attachments/assets/0b12ccfa-a4a4-40a7-af45-6ac401430b9a" alt="Pagina Inicial">
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -21,7 +22,9 @@ Explorar as funcionalidades do **Tailwind CSS**, aplicando conceitos como:
 - **Estilo Moderno**: Utilização de componentes estilizados com classes do Tailwind.  
 - **Design Minimalista**: Aplicação de boas práticas de UI/UX.  
 
+## 💻 Deploy
 
+-**Vercel**: https://desafio-tailwind-7qqd-nerkt4z5y-myllenabitars-projects.vercel.app/ 
 
 ## 🚀 Como Executar Localmente
 
